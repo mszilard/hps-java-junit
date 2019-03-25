@@ -26,7 +26,7 @@ To update the tests:
 
 The tests are generated in [``src/test/java/com/coffeemachine/ProjectTest.java``](https://github.com/hiptest/hps-java-junit/blob/master/java/src/test/java/com/coffeemachine/ProjectTest.java)
 
-Run tests
+Run test
 ---------
 
 
